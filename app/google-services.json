@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969206202074",
+    "firebase_url": "https://jatimparkgroup-7a8a1.firebaseio.com",
+    "project_id": "jatimparkgroup-7a8a1",
+    "storage_bucket": "jatimparkgroup-7a8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969206202074:android:d8ef7e664d4551c6666fe3",
+        "android_client_info": {
+          "package_name": "com.example.jatimparkgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969206202074-4piqd043u1up9cvd3enm2ool1hdguk3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jatimparkgroup",
+            "certificate_hash": "9959f7a96e3eed8b0ef49819fdc731c37fd96faf"
+          }
+        },
+        {
+          "client_id": "969206202074-2115ivo0kici7tlasjf15tbo3m60ae5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCacg7ZRgmnZnq-kBY2Z6xuznGXUnetVek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969206202074-2115ivo0kici7tlasjf15tbo3m60ae5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
